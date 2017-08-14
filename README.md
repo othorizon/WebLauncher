@@ -1,6 +1,5 @@
 ## WebLauncher
 
-[TOC]
 
 ## 在线工具
 
