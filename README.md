@@ -4,7 +4,8 @@
 
 ### 小工具
 
-- [在线临时网盘](https://bitsend.jp/?setLang=zh-tw)
+- [bitsend临时网盘](https://bitsend.jp/) 无需注册
+- [nofile临时网盘](https://nofile.io/) 无需注册
 - [临时邮箱10分钟](http://mail.bccto.me/)
 - [在线云万能转换](https://cloudconvert.com/)
 
